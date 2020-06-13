@@ -1,0 +1,11 @@
+/* This is the setting for the navbar at the pages other than dashboard */
+body {
+    padding-bottom: 20px;
+    /* this is for the fixed top */
+    min-height: 75rem;
+    padding-top: 4.5rem;
+  }
+
+  .navbar {
+    margin-bottom: 20px;
+  }
